@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Coin
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 21300000, guid: d817dd295a7454fa5a0bfc74d7e48e95, type: 3}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Neighbors: 0000000000000000000000000000000000000000000000000000000000000000
+    m_Sprites:
+    - {fileID: 21300000, guid: d817dd295a7454fa5a0bfc74d7e48e95, type: 3}
+    - {fileID: 21300000, guid: 11570113e26294d268c074a4831f259e, type: 3}
+    - {fileID: 21300000, guid: 1b191b751f37b4b7eaa523ec47565c78, type: 3}
+    - {fileID: 21300000, guid: 2e63f86ccc587497eb67c735ba86b294, type: 3}
+    - {fileID: 21300000, guid: d74de43c884ca4cfe95cff6d550c90b6, type: 3}
+    - {fileID: 21300000, guid: 0490c663487834196a08dff005716522, type: 3}
+    m_AnimationSpeed: 12
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 2
+    m_ColliderType: 1
+    m_RandomTransform: 0

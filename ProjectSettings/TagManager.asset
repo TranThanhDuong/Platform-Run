@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UIRoot
+  - GameManager
+  - ColumnManager
+  - BreakableBrige
+  - Blood_Food
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - GroundLimit
+  - Ladder
+  - Enemy
+  - Player
+  - touchable
+  - touchableObj
+  - Finish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: behindBG
+    uniqueID: 3545747509
+    locked: 0
+  - name: BG
+    uniqueID: 3649881179
+    locked: 0
+  - name: infrontBG
+    uniqueID: 2978110327
+    locked: 0
+  - name: highestBG
+    uniqueID: 3604962337
+    locked: 0
+  - name: Character
+    uniqueID: 241675389
+    locked: 0
